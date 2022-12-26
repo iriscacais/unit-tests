@@ -8,6 +8,8 @@
     - numbers([2, 'errado', 5]); // Retorna: false
 */
 
+// Funçao implementada pela trybe!
+
 const numbers = (myArray) => {
   for (let i = 0; i < myArray.length; i += 1) {
     if (typeof myArray[i] !== 'number') {

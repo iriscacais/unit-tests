@@ -36,6 +36,7 @@ Retorno:
 }
 */
 
+// Funçao implementada pela TRYBE!
 const characters = {
   arya: {
     name: 'Arya Stark',
