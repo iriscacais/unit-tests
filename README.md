@@ -1,13 +1,12 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Unit tests - ES6 e testes unitários 
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Desenvolvido no módulo de fundamentos do curso de desenvolvimento web da trybe :rocket:
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### Descriçao do projeto 
+
+Esse projeto teve como objetivo implementar funções utilizando ES6 de forma que atendessem aos testes já implementados pela Trybe (esses testes não constam no arquivo por serem de propriedade da escola). Além disso, escrever testes usando o módulo Jest do NodeJS para verificar o correto funcionamento de algumas funções. ( As funções numbers, circle, productDetails e getCharacter foram implementadas pela trybe e os testes para essas funções desenvolvidos por mim).
+
+### Tecnologias usadas para o desenvolvimento do projeto
+
+- ES6
+- Jest do NodeJS
